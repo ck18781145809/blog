@@ -11,3 +11,5 @@
 [好记性不如烂键盘，手写Promise学习](https://github.com/ck18781145809/blog/issues/5)
 
 [好记性不如烂键盘，CSSOM View Module整理](https://github.com/ck18781145809/blog/issues/6)
+
+[三个点的loading动画整理](https://github.com/ck18781145809/blog/issues/7)
