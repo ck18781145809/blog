@@ -13,3 +13,6 @@
 [好记性不如烂键盘，CSSOM View Module整理](https://github.com/ck18781145809/blog/issues/6)
 
 [三个点的loading动画整理](https://github.com/ck18781145809/blog/issues/7)
+
+[[SVG基础动画（SVG标签+Snap.svg）](https://github.com/ck18781145809/blog/issues/8)](https://github.com/ck18781145809/blog/issues/7)
+
