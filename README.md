@@ -17,3 +17,5 @@
 [SVG基础动画（SVG标签/Snap.svg）](https://github.com/ck18781145809/blog/issues/8)
 
 [你知道的HTML标签](https://github.com/ck18781145809/blog/issues/9)
+
+[JavaScript基础类型](https://github.com/ck18781145809/blog/issues/10)
